@@ -1,0 +1,31 @@
+
+header{
+    text-align: center;
+    font: bold;
+    font-size: 22px;
+    text-decoration: underline;
+    color: #A4A400;
+}
+
+h1{
+    text-align: left;
+    font-size: 18px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    text-decoration: underline;;
+}
+
+body{
+    background: white;
+}
+
+p,ul,ol{
+    color: #404040;
+    font-size: 11px;
+    font-family: georgia, garamond,sans-serif;
+}
+
+a{
+    color: #A4A400;
+}
+

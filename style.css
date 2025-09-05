@@ -1,0 +1,46 @@
+
+header{
+    text-align: center;
+    font: bold;
+    font-size: 22px;
+    text-decoration: underline;
+    color: #A4A400;
+}
+
+h1{
+    text-align: left;
+    font-size: 18px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    text-decoration: underline;;
+}
+
+body{
+    background: white;
+    background-image: url(Images/bluesky.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;;
+}
+
+p,ol,ul,li,blockquote{
+    color: #404040;
+    font-size: 11px;
+    font-family: georgia, garamond,sans-serif;
+}
+
+a{
+    color: #A4A400;
+}
+
+blockquote{
+    font-style: italic;
+    background-color: #FFFFA8;
+    text-indent: 10%;
+}
+
+em{
+    font-weight: bold;
+}
+
+
+
